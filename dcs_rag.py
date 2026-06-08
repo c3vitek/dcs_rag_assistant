@@ -30,8 +30,8 @@ TOP_K = 4
 # Generation provider:
 #   "ollama" = local model, free, offline (needs running Ollama)
 #   "openai" = OpenAI API (needs OPENAI_API_KEY)
-LLM_PROVIDER = "ollama"
-LLM_MODEL = "llama3.1"     # ollama: llama3.1 / qwen2.5  | openai: gpt-4o-mini
+LLM_PROVIDER = "openai"
+LLM_MODEL = "gpt-4o-mini"     # ollama: llama3.1 / qwen2.5  | openai: gpt-4o-mini
 
 
 # --- 1) Extraction + chunking ----------------------------------------------
