@@ -1,0 +1,92 @@
+[
+  {
+    "q": "How do I start the engine on the F-16C using the JFS?",
+    "type": "in corpus",
+    "expected": "Engine start uses the Jet Fuel Starter (JFS). Set JFS to START2, advance throttle to IDLE around 20-25% RPM, monitor FTIT and oil pressure as the engine spools up to idle.",
+    "expected_pages": [88, 90, 91]
+  },
+  {
+    "q": "How do I align the INS before flight?",
+    "type": "in corpus",
+    "expected": "Set the INS knob to ALIGN NORM and wait for a full alignment (typically ~8 minutes); the DED shows the alignment status/quality before switching to NAV.",
+    "expected_pages": [96, 97]
+  },
+  {
+    "q": "What is the maximum G limit of the F-16C?",
+    "type": "in corpus",
+    "expected": "Around 9 G; the FLCS limits the airframe, with lower limits at heavy gross weight / with stores.",
+    "expected_pages": [154]
+  },
+  {
+    "q": "At what speed should I take off / rotate?",
+    "type": "in corpus",
+    "expected": "Takeoff at approx. 173 kts; begin rotation roughly 10 kts below takeoff speed (around 160-163 kts).",
+    "expected_pages": [123]
+  },
+  {
+    "q": "What does the Master Caution light mean and how do I reset it?",
+    "type": "in corpus",
+    "expected": "It signals a caution; check the caution panel for the specific warning, then press the Master Caution button to reset the light.",
+    "expected_pages": [35]
+  },
+  {
+    "q": "How do I switch the radar between RWS and TWS modes?",
+    "type": "in corpus",
+    "expected": "Use the OSB next to the radar mode label on the FCR page to cycle the air-to-air mode between RWS and TWS.",
+    "expected_pages": [173, 176]
+  },
+  {
+    "q": "How do I lock (bug) a target in BVR using the radar?",
+    "type": "in corpus",
+    "expected": "Slew the cursor over the contact and TMS forward (up) to bug/lock the target into a single-target-track; TMS aft to drop the lock.",
+    "expected_pages": [173, 182]
+  },
+  {
+    "q": "How do I employ a JDAM (GBU-38) against a ground target?",
+    "type": "in corpus",
+    "expected": "Select the JDAM on the SMS, set the target steerpoint/coordinates, ensure the weapon is in range (HUD/launch cues), and release with the pickle button when within the release envelope.",
+    "expected_pages": [314, 495]
+  },
+  {
+    "q": "What is the correct procedure to fire an AIM-120 AMRAAM?",
+    "type": "in corpus",
+    "expected": "Select A-A mode and the AIM-120, lock the target, confirm it is within the launch zone (DLZ cues on HUD), and fire with the weapon-release/pickle.",
+    "expected_pages": [315, 318]
+  },
+  {
+    "q": "How do I set up and employ the AGM-88 HARM?",
+    "type": "in corpus",
+    "expected": "Select the HARM on the SMS, choose the employment mode (e.g., POS/HAS), have it detect/handoff the radar emitter threat, then release within parameters.",
+    "expected_pages": [436]
+  },
+  {
+    "q": "How do I employ the AGM-65 Maverick?",
+    "type": "in corpus",
+    "expected": "Select the Maverick, uncage/slave the seeker to the target (via TGP or boresight), get a lock on the target, then fire with the pickle button.",
+    "expected_pages": [394]
+  },
+  {
+    "q": "How do I perform an ILS landing in the F-16C?",
+    "type": "in corpus",
+    "expected": "Tune the ILS frequency, set the instrument mode, follow the localizer and glideslope cues on the HUD/ADI down to the runway.",
+    "expected_pages": [675, 771]
+  },
+  {
+    "q": "How do I start the engines on the F/A-18C Hornet?",
+    "type": "OUT of corpus",
+    "expected": "Different aircraft not covered by this guide. The assistant should state the answer is not in the F-16 guide and not make it up.",
+    "expected_pages": []
+  },
+  {
+    "q": "What is the real-world combat radius of the F-16 in kilometers?",
+    "type": "OUT of corpus",
+    "expected": "Real-world performance figure, not a DCS procedure from this guide. The assistant should say it is not in the guide.",
+    "expected_pages": []
+  },
+  {
+    "q": "How do I activate the IRST (infrared search and track) sensor on the F-16C?",
+    "type": "OUT of corpus",
+    "expected": "The DCS F-16C does not have an IRST; the guide does not cover it. The assistant should say the answer is not in the guide rather than inventing a procedure.",
+    "expected_pages": []
+  }
+]
