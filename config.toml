@@ -1,7 +1,32 @@
+[server]
+enableStaticServing = true
+
+# ── Self-hosted Hornet Display font ─────────────────────────────────────────
+# Download both files into a /static subfolder next to app.py:
+#   HornetDisplay-Regular.woff2
+#   HornetDisplay-Bold.woff2
+# from: https://github.com/0x408/hornet-display
+
+[[theme.fontFaces]]
+family = "hornet"
+url    = "app/static/HornetDisplay-Regular.woff2"
+style  = "normal"
+weight = 400
+
+[[theme.fontFaces]]
+family = "hornet"
+url    = "app/static/HornetDisplay-Bold.woff2"
+style  = "normal"
+weight = 700
+
+# ── Theme ────────────────────────────────────────────────────────────────────
 [theme]
-base = "dark"
-primaryColor = "#4da3ff"
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#161b22"
-textColor = "#e6edf3"
-font = "monospace"
+base                = "dark"
+backgroundColor     = "#09090b"
+secondaryBackgroundColor = "#111318"
+font                = "hornet, monospace"
+headingFont         = "hornet, monospace"
+codeFont            = "monospace"
+baseFontSize        = 14
+primaryColor = "#33ff66"
+textColor    = "#7dd87d"

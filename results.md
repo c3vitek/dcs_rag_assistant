@@ -53,7 +53,7 @@ Follow these steps carefully to successfully start the engine using the JFS.
 
 Remember to follow any specific procedures outlined in the F-16C flight manual or checklist for your particular mission or scenario.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? sedí perfektně na engine start  RAG lepší? RAG byl lepší, bez ragu přeskočil mnoho kroků o kterých neměl tušení. Ale měl správné uvažování. RAG byl krásně detailní, což je přesně potřeba.  u 'mimo korpus' odmítl? nebylo třeba
 
 ---
 
@@ -103,7 +103,7 @@ Make sure to follow these steps carefully to ensure proper INS alignment before 
 
 Remember that the INS alignment is crucial for accurate navigation, so ensure that you enter the correct position and allow sufficient time for the alignment to complete before taxiing.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? ano sedí skvěle  RAG lepší? RAG je lepší, ale bez RAG to trefil také dobře - neměl přesný čas pro alignment  u 'mimo korpus' odmítl? zde netřeba
 
 ---
 
@@ -119,7 +119,7 @@ Remember that the INS alignment is crucial for accurate navigation, so ensure th
 
 > The maximum G limit of the F-16C Viper is typically around +9 Gs in clean configuration (without external stores). However, this limit can vary depending on the specific configuration, weight, and other factors. It's important to consult the aircraft's flight manual or specific documentation for precise limits under different conditions.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? dal jiné strany, ale probírá se na různých místech.  RAG lepší? oba vědely, ale rag je daleko detailnější a uvádí konkrétnější informace  u 'mimo korpus' odmítl? netřeba
 
 ---
 
@@ -139,7 +139,7 @@ A good rule of thumb is to refer to the aircraft's weight and the specific takeo
 
 Make sure to maintain a positive climb rate after rotation and follow the appropriate climb-out procedures.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? sedí + další stránky, kde se řeší  RAG lepší? rag zminuje konkretní hodnoty pro konkretni hmotnost, hole llm to lehce podstrelilo, ale uznalo, že závisí na hmostnosti.  u 'mimo korpus' odmítl? netřeba
 
 ---
 
@@ -165,7 +165,7 @@ To reset the Master Caution light, you can follow these steps:
 
 After pressing the reset button, the Master Caution light should extinguish if all issues have been resolved. If it remains illuminated, further investigation into the system faults is required.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? sedí  RAG lepší? bez dává víc informací okolo (udělej i check těch věcí), trochu nepřesně pojmenoval to tlačítko. RAG to řekl, dobře, že zmáčkneš to světlo přímo, ale není to špatně ani u jednoho.  u 'mimo korpus' odmítl? netřeba
 
 ---
 
@@ -197,7 +197,7 @@ After pressing the reset button, the Master Caution light should extinguish if a
 
 Remember that TWS mode allows you to track multiple targets simultaneously, while RWS is primarily for searching and detecting targets. Make sure to practice switching between these modes to become proficient in their use during missions.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? ano sedí  RAG lepší? je lepší, dokonce má pravdu i nad očekáváno, obojí totiž jde  u 'mimo korpus' odmítl? netřeba
 
 ---
 
@@ -237,7 +237,7 @@ Once a Bugged Target is designated, the radar automatically transitions the scan
 
 Remember to maintain situational awareness and be aware of your surroundings while engaging in BVR combat.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? sedí  RAG lepší? oba odpověděli za mě ok  u 'mimo korpus' odmítl? netřeba
 
 ---
 
@@ -308,7 +308,7 @@ Make sure to perform target designation in either Pre-Planned or Visual Mode, ve
 
 By following these steps, you should be able to effectively employ a JDAM against ground targets in the F-16C Viper module in DCS.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? ano  RAG lepší? zde si nejsem jistý  u 'mimo korpus' odmítl? netřeba
 
 ---
 
@@ -353,7 +353,7 @@ By following these steps, you should be able to effectively employ a JDAM agains
 
 Remember to practice these steps in a training environment to become familiar with the controls and procedures.
 
-**Hodnocení** (doplň ručně): citace sedí? ⬜  RAG lepší? ⬜  u 'mimo korpus' odmítl? ⬜
+**Hodnocení** (doplň ručně): citace sedí? našel lepší  RAG lepší? oba ok?  u 'mimo korpus' odmítl? netřeba
 
 ---
 
